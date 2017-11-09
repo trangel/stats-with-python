@@ -22,7 +22,7 @@ Emily Anderson for "Confidence intervals".
 	1.1 Q-Q plots   
 	1.2 Skew and Kurtosis tests   
 	1.3 Kormogorov-Smirnov test   
-        1.4 $\chi^2$ test    
+        1.4 Chi-squared test    
 
 2. [<a href="https://github.com/trangel/stats-with-python/blob/master//Difference between means.ipynb">Difference between two means </a>]: test difference between two means   
 	2.1 t-test   
