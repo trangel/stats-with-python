@@ -31,4 +31,6 @@ Emily Anderson for "Confidence intervals".
 	2.4 Wilcoxom rank-sum test    
 
 ## Non parametric tests
-1. [<a href="https://github.com/trangel/stats-with-python/blob/master//Wilcoxon rank-sum test.ipynb">Wilcoxon rank-sum test </a>]
+1. [<a href="https://github.com/trangel/stats-with-python/blob/master//Wilcoxon rank-sum test.ipynb">Wilcoxon rank-sum test </a>]    
+	1.1 Mann-Whitney test  
+ 
