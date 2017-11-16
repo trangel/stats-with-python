@@ -36,4 +36,4 @@ Emily Anderson for "Confidence intervals".
 
 ### Test difference between means for dependent groups     
 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/paired t-test.ipynb">Paired t-test</a>]     
-2. [<a href="https://github.com/trangel/stats-with-python/blob/master/Repeated Measures ANOVA.ipynb">Repeated Measures ANOVA</a>]    
+2. [<a href="https://github.com/trangel/stats-with-python/blob/master/Repeated measures ANOVA.ipynb">Repeated Measures ANOVA</a>]    
