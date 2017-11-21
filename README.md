@@ -7,7 +7,7 @@ Emily Anderson for "Confidence intervals".
 
 ## Basics   
 
-1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//PDF-CDF.ipynb">PDF-CDF </a>]: PDF and CDF plots with numpy
+1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/CDF.ipynb">CDF </a>]: CDF plots for a random distribution   
 
 2. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//confidence_intervals.ipynb">Confidence intervals</a>]: by Emily Anderson   
 	3.1  Standard confidence intervals for normal distribution   
