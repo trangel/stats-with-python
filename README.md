@@ -34,6 +34,9 @@ Emily Anderson for "Confidence intervals".
 	1.1 Wilcoxon rank-sum test    
 	1.2 Mann-Whitney test  
 
-### Test difference between means for dependent groups     
-1. [<a href="https://github.com/trangel/stats-with-python/blob/master/paired t-test.ipynb">Paired t-test</a>]     
-2. [<a href="https://github.com/trangel/stats-with-python/blob/master/Repeated measures ANOVA.ipynb">Repeated Measures ANOVA</a>]    
+### Test difference between means for dependent groups    
+#### Parametric tests      
+<br> 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/paired t-test.ipynb">Paired t-test</a>]     
+<br> 2. [<a href="https://github.com/trangel/stats-with-python/blob/master/Repeated measures ANOVA.ipynb">Repeated Measures ANOVA</a>]    
+#### Non-parametric tests      
+<br> 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/Friedman chi square.ipynb">Friedman chi square test</a>]     
