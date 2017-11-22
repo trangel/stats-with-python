@@ -2,17 +2,21 @@
 
 by Tonatiuh Rangel     
 
-Collaborators:    
-Emily Anderson for "Confidence intervals".   
+## Collaborators:    
+Emily Anderson    
 
 ## Basics   
 
 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/CDF.ipynb">CDF </a>]: CDF plots for a random distribution   
 
-2. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//confidence_intervals.ipynb">Confidence intervals</a>]: by Emily Anderson   
-	3.1  Standard confidence intervals for normal distribution   
-	3.2  Bootstrapped confidence intervals   
-	3.3  Bayesian estimates    
+## More advanced topics    
+1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//confidence_intervals.ipynb">Confidence intervals</a>] 
+	1.1  Standard confidence intervals for normal distribution   
+	1.2  Bootstrapped confidence intervals   
+	1.3  Bayesian estimates    
+
+2. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/Sampling a random distribution.ipynb">Rejection sampling</a>] A method to sample a random distribution     
+
 
 ## Hypothesis tests   
 
