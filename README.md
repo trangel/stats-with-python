@@ -29,7 +29,7 @@ Emily Anderson
         1.4 Chi-squared test    
 
 ### Test difference between two means
-1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Difference between means.ipynb">Parametric tests $+$ Bootstrapping</a>]   
+1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Difference between means.ipynb">Parametric tests & Bootstrapping</a>]   
 	1.1 t-test   
 	1.2 Cohen's d (effect size)   
 	1.3 Bootstrapping   
