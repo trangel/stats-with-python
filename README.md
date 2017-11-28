@@ -17,6 +17,7 @@ Emily Anderson
 
 2. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/Sampling a random distribution.ipynb">Rejection sampling</a>] A method to sample a random distribution     
 
+3. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/mle_binomial.ipynb">Rejection sampling</a>] Binomial distribution and Bayesian theorem.         
 
 ## Testing hypotheses     
 
