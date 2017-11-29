@@ -30,8 +30,8 @@ Emily Anderson
 	1.4 Shapiro-Wilk test    
 	1.5 Anderson-Darling test    
 
-### Goodness of fit test
-1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Goodness of fit.ipynb">Godness of fit</a>] also known as chi-squared test    
+### Goodness of fit chi square test
+1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Goodness of fit.ipynb">Godness of fit</a>]        
 
 ### Test difference between means
 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Difference between means.ipynb">Parametric tests & Bootstrapping</a>]   
