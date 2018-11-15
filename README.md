@@ -30,8 +30,11 @@ Emily Anderson
 	1.4 Shapiro-Wilk test    
 	1.5 Anderson-Darling test    
 
-### Goodness of fit chi square test
-1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Goodness of fit.ipynb">Godness of fit</a>]        
+### Goodness of fit     
+1. For categorical data    
+[<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Goodness of fit.ipynb">chi square test</a>]        
+2. For 2 sample distributions     
+[<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/Kolmogorov-Smirnov test.ipynb">Kolmogorov-Smirnov test</a>]        
 
 ### Test difference between means
 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//Difference between means.ipynb">Parametric tests & Bootstrapping</a>]   
