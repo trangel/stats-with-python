@@ -19,6 +19,11 @@ Emily Anderson
 
 3. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/mle_binomial.ipynb">Binomial distribution</a>] Binomial distribution and Bayesian theorem.         
 
+4. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/Power estimation.ipynb">Power estimation</a>] 
+4.1 Standard solver   
+4.2 Bootstrapping    
+
+
 ## Testing hypotheses     
 
 
