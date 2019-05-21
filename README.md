@@ -56,4 +56,7 @@ Emily Anderson
 1.1 [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/paired t-test.ipynb">Paired t-test</a>]     
 1.2 [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/Repeated measures ANOVA.ipynb">Repeated Measures ANOVA</a>]    
 2. Non-parametric tests      
-2.1 [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/Friedman chi square.ipynb">Friedman chi square test</a>]     
+2.1 [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/Friedman chi square.ipynb">Friedman chi square test</a>]    
+
+### Test percentage change     
+1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/delta method.ipynb">Delta method (A/B testing)</a>]     
