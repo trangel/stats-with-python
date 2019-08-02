@@ -9,7 +9,7 @@ Emily Anderson
 
 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks/CDF.ipynb">CDF </a>]: CDF plots for a random distribution   
 
-## More advanced topics    
+## More advanced topics     
 1. [<a href="https://github.com/trangel/stats-with-python/blob/master/notebooks//confidence_intervals.ipynb">Confidence intervals</a>]    
 	1.1  Standard confidence intervals for normal distribution   
 	1.2  Bootstrapped confidence intervals   
